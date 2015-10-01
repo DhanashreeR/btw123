@@ -1,0 +1,30 @@
+input.error,textarea.error,select.error
+{
+	border:1px solid #ff0000 !important; 
+}
+
+label.error
+{
+	color:#ff0000 !important;
+}
+
+.dropdown-menu{
+    position: initial;
+}
+
+.whiteborder{
+    border-color: #fff !important;
+}
+
+.modal-header{
+    padding:10px!important;
+}
+<<<<<<< HEAD
+
+.datepicker2{
+	position: absolute;
+=======
+body {
+    font-size: 12px;
+>>>>>>> a6dc25446f16213ffccacff5b8e46eab75111094
+}
